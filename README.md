@@ -1,5 +1,5 @@
 
-R Source Codes
+Computation using R
 ==================================
 R is a programming language for statistical computation and graphics. It
 is a GNU project. More information can be found at go to
